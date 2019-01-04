@@ -1,6 +1,6 @@
 class HelloWorld{
 
-main(){
-Sysout("HelloWorld");
+public static void main(){
+System.out.println("HelloWorld");
 }
 }
