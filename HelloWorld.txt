@@ -1,12 +1,12 @@
 class HelloWorld{
 
 
-     void mymethod(){
+    static void mymethod(){
          System.out.println("HelloWorld welcome to git...!!!");
 
 }
 
 	public static void main(){
-		
+                 HelloWorld.mymethod();		
 	}
 }
