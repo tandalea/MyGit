@@ -8,5 +8,10 @@ class HelloWorld{
 
 	public static void main(){
                  HelloWorld.mymethod();		
+
+
+          HelloWorld obj = new HelloWorld
+		obl.mymethod();
+	        obj.mymethod();
 	}
 }
